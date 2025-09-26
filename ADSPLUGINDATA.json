@@ -70,5 +70,21 @@
     "download_url": "https://drive.google.com/uc?export=download&id=10HMR9AL4sko1v1T-f5UCcEnz5kMPhdw0",
     "logo": "ADS_PDF_VIEWER_LOGO.png",
     "logo_download_url": "https://drive.google.com/uc?export=download&id=10HMR9AL4sko1v1T-f5UCcEnz5kMPhdw0"
+  },
+  {
+    "name": "ADS KATANA",
+    "version": "1.0.0",
+    "description": "A SketchUp plugin named ADS Katana for enhanced modeling or tools",
+    "download_url": "https://drive.google.com/uc?export=download&id=1yB3sjC0xYGRnWe2YkuysK4zvK3PWLMr9",
+    "logo": "ADS_KATANA_LOGO.png",
+    "logo_download_url": "https://your-logo-link.com/logo.png"
+  },
+  {
+    "name": "ADS WINDOW",
+    "version": "1.0.0",
+    "description": "SketchUp plugin ADS WINDOW for modeling windows easily",
+    "download_url": "https://drive.google.com/uc?export=download&id=1o0DbC8FIgcIHTRPqn0q7-vMM7akMRXuI",
+    "logo": "ADS_WINDOW_LOGO.png",
+    "logo_download_url": "https://your-logo-link.com/logo.png"
   }
 ]
